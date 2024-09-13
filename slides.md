@@ -62,7 +62,7 @@ Ein User ist jemand, der die Software nutzt, aber nicht aktiv an der Entwicklung
 
 ---
 
-# Begrisserklärung
+# Begriffsklärung
 
 ## Fork
 
